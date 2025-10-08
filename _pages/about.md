@@ -26,7 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Selamat Datang! I am a cognitive scientist from Malaysia with 8 years of experience researching mental health conditions. My research aims to understand precisely how structural inequalities contribute to mental health crises, how best to intervene and support people affected, and to inform policies for the eradication of poverty through an evidence-based, anti-capitalist lens.
+Selamat Datang! I am a cognitive scientist from Malaysia with 8 years of experience researching mental health conditions. My research aims to address: 
+
+<ol>
+  <li>Precisely how structural inequalities contribute to mental health crises</li>
+  <li>How best to intervene and support people affected</li>
+  <li>How to inform policies for the eradication of poverty through an evidence-based, scientific, and anti-capitalist lens</li>
+</ol>
 
 My research skills span ecological momentary testing (mobile sensing), neuroimaging methods (fMRI and EEG), cognitive assessments, computational modelling, and structured interviews.
 
