@@ -9,37 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Psychology
       institution: University of Cambridge, UK
       year: 2021
-    - title: BSc
+    - title: BSc in Psychology
       institution: University College London, UK
       year: 2017
 
-  - title: Funding and Awards
-    type: time_table
-    contents:
-      - year: 2025
-        items: 
-          - King's Prize Fellowship (~£140,000)
-          - G.A. Lienert Foundation Stipend (up to £3200)
-      - year: 2023
-        items: 
-          - Travel Award for Computational Psychiatry Conference (£1000)
-      - year: 2022
-        items: 
-          - People's Choice Award for Poster at the Society for Neuroscience Annual Symposium, Singapore
-      - year: 2022
-        items: 
-          - Outstanding Flash Talk Award at the Society for Neuroscience Annual Symposium, Singapore
-      - year: 2020
-        items: 
-          - G.C Grindley Grant for PhD Research (£3000)
-       - year: 2018
-        items: 
-          - PhD Studentship (£43,200) and fee waiver
-        - year: 2014
-        items: 
-          - Khazanah Foundation scholarship for Bachelor's studies (£133,142.87)
 
         
