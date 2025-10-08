@@ -16,3 +16,13 @@
       institution: University College London, UK
       year: 2017
 
+- title: Funding and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+          - King's Prize Fellowship (~£140,000)
+          - G.A. Lienert Foundation Stipend (up to £3200)
+    - year: 2023
+      items:
+        - Travel Award for Computational Psychiatry Conference (£1000)
