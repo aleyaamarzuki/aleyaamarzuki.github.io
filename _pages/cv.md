@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: CV_AleyaAM.pdf # you can also use external links here
-description: See my CV here.
+description: See highlights from my CV here. Otherwise you can view the full version by selecting the PDF button.
 toc:
   sidebar: left
 ---
