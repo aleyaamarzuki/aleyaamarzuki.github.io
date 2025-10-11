@@ -35,11 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-have-received-a-king-s-prize-fellowship-to-advance-my-research-into-the-impact-of-socioeconomic-stressors-on-mental-health-and-cognitive-functioning",
+          title: 'I have received a King’s Prize Fellowship to advance my research into the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
