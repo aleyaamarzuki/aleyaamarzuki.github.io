@@ -15,7 +15,17 @@
     - title: BSc in Psychology
       institution: University College London, UK
       year: 2017
-
+      
+- title: Academic Posts
+  type: time_table
+  contents:
+    - title: Incoming King's Prize Research Fellow
+      institution: King's College London
+      year: 2026 - 2028
+    - title: Postdoctoral Scientist
+      institution: University of Tübingen
+      year: 2024 - 2025
+      
 - title: Funding and Awards
   type: time_table
   contents:
