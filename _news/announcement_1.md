@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have received a <a href="https://www.kcl.ac.uk/assets/research/pdf/kings-prize-fellowship-2025r2-information-for-web.pdf">King's Prize Fellowship</a> to advance my research into the impact of socioeconomic stressors on mental health and cognitive functioning!
+I have won a <a href="https://www.kcl.ac.uk/assets/research/pdf/kings-prize-fellowship-2025r2-information-for-web.pdf">King's Prize Fellowship</a> to advance my research into the impact of socioeconomic stressors on mental health and cognitive functioning!
