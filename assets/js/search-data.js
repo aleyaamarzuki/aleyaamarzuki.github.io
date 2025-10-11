@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-received-a-king-s-prize-fellowship-to-advance-my-research-into-the-impact-of-socioeconomic-stressors-on-mental-health-and-cognitive-functioning",
-          title: 'I have received a King’s Prize Fellowship to advance my research into the...',
+            },},{id: "news-i-have-won-a-king-s-prize-fellowship-to-advance-my-research-into-the-impact-of-socioeconomic-stressors-on-mental-health-and-cognitive-functioning",
+          title: 'I have won a King’s Prize Fellowship to advance my research into the...',
           description: "",
           section: "News",},{id: "news-i-have-a-new-pre-print-out-where-we-show-that-fluctuations-in-confidence-drive-ocd-symptoms",
           title: 'I have a new pre-print out where we show that fluctuations in confidence...',
