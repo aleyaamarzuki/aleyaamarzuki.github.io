@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The impact of OCD on learning and decision-making in adolescence
+title: How adolescent-OCD impacts learning and decision-making
 description: 
 img: assets/img/Adolescent_OCD.png
 importance: 4
