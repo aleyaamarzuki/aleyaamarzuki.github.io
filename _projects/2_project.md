@@ -22,6 +22,7 @@ Our seminal paper characterised cognitive profiles within this unique older popu
 This research serves as a powerful reminder of the hidden ways socioeconomic disparities shape our brain health over a lifetime. Thus, addressing social inequality is not just an economic or moral imperative, it's a crucial public health strategy.
 
 <b>Relevant publications:</b>
+
 Marzuki, A. A., Wong, K. Y., Chan, J. K., Na, S. Y., Thanaraju, A., Phon-Amnuaisuk, P., ... & Schaefer, A. (2024). Mapping computational cognitive profiles of aging to dissociable brain and sociodemographic factors. npj Aging, 10(1), 50. <a href="https://www.nature.com/articles/s41514-024-00171-3">Link</a>
 
 Thanaraju, A., Marzuki, A. A., Chan, J. K., Wong, K. Y., Phon-Amnuaisuk, P., Vafa, S., ... & Jenkins, M. (2024). Structural and functional brain correlates of socioeconomic status across the life span: A systematic review. Neuroscience & Biobehavioral Reviews, 162, 105716. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763424001854">Link</a>
