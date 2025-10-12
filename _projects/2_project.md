@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brain ageing, cognition, and socioeconomic status
-description: a project with a background image and giscus comments
+description: 
 img: assets/img/Ageing_cognition_project.png
 importance: 2
 category: work
