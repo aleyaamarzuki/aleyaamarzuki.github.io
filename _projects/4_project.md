@@ -8,6 +8,10 @@ category: work
 giscus_comments: false
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 Obsessive-compulsive disorder (OCD) is a highly disabling condition with an average age of onset in adolescence. Despite this, OCD and its effects on cognitive functioning is largely understudied in youths. Thus, my PhD research aimed to understand how learning and decision-making may be atypical in young people diagnosed with OCD. 
 
 Using cognitive tasks (like simple computer games) and computational modelling (a fancy way of analysing cognitive data using mathematical formulas), I found that learning in adolescent-OCD is particularly impacted when conditions are highly uncertain (i.e., when payoffs after making decisions is probabilistic); affected adolescents feel compelled to switch choices often and (over)explore different possibilities, at the expense of task performance. 
