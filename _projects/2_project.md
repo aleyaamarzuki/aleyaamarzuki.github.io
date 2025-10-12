@@ -6,6 +6,7 @@ img: assets/img/Ageing_cognition_project.png
 importance: 2
 category: work
 ---
+{% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 I co-led the development of <a href="https://www.researchgate.net/publication/366364517_AGEWELL_Investigating_the_predictors_of_healthy_neurocognitive_ageing_in_a_socioeconomically_and_ethnically_diverse_Malaysian_cohort?channel=doi&linkId=639d2fc3095a6a7774373d0e&showFulltext=true ">AGEWELL</a>, a cohort study wherein 400 Malaysian adults aged 60 years and above underwent extensive cognitive, neuroimaging, and salivary testing.  
 
