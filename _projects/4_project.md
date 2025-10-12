@@ -5,7 +5,7 @@ description:
 img: assets/img/Adolescent_OCD.png
 importance: 4
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Obsessive-compulsive disorder (OCD) is a highly disabling condition with an average age of onset in adolescence. Despite this, OCD and its effects on cognitive functioning is largely understudied in youths. Thus, my PhD research aimed to understand how learning and decision-making may be atypical in young people diagnosed with OCD. 
