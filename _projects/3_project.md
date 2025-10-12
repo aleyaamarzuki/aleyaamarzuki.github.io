@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #EEEManyLabs
+title: EEGManyLabs
 description:
 img: assets/img/eegmanylabs_project.png
 importance: 3
