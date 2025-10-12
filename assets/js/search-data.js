@@ -48,7 +48,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-brain-ageing-cognition-and-socioeconomic-status",
           title: 'Brain ageing, cognition, and socioeconomic status',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-eegmanylabs",
