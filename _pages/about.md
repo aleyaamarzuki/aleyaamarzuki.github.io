@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Selamat Datang! I am a cognitive scientist from Malaysia with 8 years of experience researching mental health conditions. My research aims to address: 
+Selamat Datang! I am a cognitive scientist from Malaysia with nearly a decade of experience researching mental health conditions. My research aims to address: 
 
 <ol>
   <li>Precisely how structural inequalities contribute to mental health crises</li>
