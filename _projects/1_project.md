@@ -6,7 +6,7 @@ img: assets/img/ema_OCD.png
 importance: 1
 category: work
 ---
-Mental health symptoms fluctuate substantially over time and can take place along a rapid timescale. In obsessive-compulsive disorder (OCD), symptoms are known to fluctuate even within a single day. However, it is unknown what drives these fluctuations. This is a major challenge because knowing when and how symptoms fluctuate would be critical to deliver just-in-time interventions and to prevent acute mental health crises.
+Mental health symptoms fluctuate substantially over time and can take place along a rapid timescale. In obsessive-compulsive disorder (OCD), symptoms are known to fluctuate even within a single day. However, it is unknown what drives these fluctuations. This is a major challenge because knowing when and how symptoms fluctuate is critical for delivering just-in-time interventions and preventing acute mental health crises.
 
 Using a naturalistic at-home study where people with OCD reported their symptoms on a mobile phone app and also completed cognitive tests, I found that lowered confidence (metacognition), both in the self- and during a decision-making game, preceded when OCD symptoms would occur within the timescale of just a few hours!
 
