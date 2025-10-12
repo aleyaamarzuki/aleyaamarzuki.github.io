@@ -41,9 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-a-new-pre-print-out-where-we-show-that-fluctuations-in-confidence-drive-ocd-symptoms",
           title: 'I have a new pre-print out where we show that fluctuations in confidence...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-daily-fluctuations-in-ocd-symptoms-and-metacognition",
+          title: 'Daily fluctuations in OCD symptoms and metacognition',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
