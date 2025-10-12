@@ -14,7 +14,7 @@ Using cognitive tasks (like simple computer games) and computational modelling (
 
 This research has important implications for how excessively careful decision-making and indecisiveness make it difficult for youths with OCD to navigate daily life, particularly in academic settings.
 
-Relevant publications:
+<b>Relevant publications:</b>
 
 Marzuki, A. A., Sahakian, B. J., & Robbins, T. W. (2020). Are candidate neurocognitive endophenotypes of OCD present in paediatric patients? A systematic review. Neuroscience & Biobehavioral Reviews, 108, 617-645. <a href="https://www.sciencedirect.com/science/article/abs/pii/S014976341930908X">Link</a>
 
