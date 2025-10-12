@@ -5,7 +5,6 @@ description:
 img: assets/img/Adolescent_OCD.png
 importance: 4
 category: work
-giscus_comments: false
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
