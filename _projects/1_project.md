@@ -2,7 +2,7 @@
 layout: page
 title: Daily fluctuations in OCD symptoms and metacognition
 description: 
-img: assets/img/EMA_OCD.tif
+img: assets/img/ema_OCD.png
 importance: 1
 category: work
 related_publications: true
