@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Projects I've done that I think are pretty neat.
+description: Stuff I've done that I think is pretty neat.
 nav: true
 nav_order: 3
 display_categories: [work, community]
