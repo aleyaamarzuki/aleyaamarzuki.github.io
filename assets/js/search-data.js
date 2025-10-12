@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-the-impact-of-ocd-on-learning-and-decision-making-in-adolescence",
-          title: 'The impact of OCD on learning and decision-making in adolescence',
+            },},{id: "projects-how-adolescent-ocd-impacts-learning-and-decision-making",
+          title: 'How adolescent-OCD impacts learning and decision-making',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
