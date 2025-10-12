@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Daily fluctuations in OCD symptoms and metacognition
+description: 
+img: assets/img/EMA_OCD.tif
 importance: 1
 category: work
 related_publications: true
