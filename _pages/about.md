@@ -39,3 +39,39 @@ My research skills span ecological momentary testing (mobile sensing), neuroimag
 As an early-career researcher, I am constantly seeking out ways to make meaningful societal contributions through science and to give back to communities who participate in research studies. I am currently looking to collaborate with like-minded groups working in social justice, policy, and charity sectors.
 
 I am a strong advocate for science being open, fair, and decolonial.
+
+My work has been featured in:
+
+<div class="row justify-content-sm-center">
+
+  <div class="col-sm-2 mt-3 mt-md-0">
+    <a href="https://theconversation.com" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/conversation.png" title="The Conversation logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
+    </a>
+  </div>
+
+  <div class="col-sm-2 mt-3 mt-md-0">
+    <a href="https://www.weforum.org" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/WEF.jpg" title="World Economic Forum logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
+    </a>
+  </div>
+
+  <div class="col-sm-2 mt-3 mt-md-0">
+    <a href="https://www.fastcompany.com" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/Fast-Company-Logo-1995.png" title="Fast Company logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
+    </a>
+  </div>
+
+  <div class="col-sm-2 mt-3 mt-md-0">
+    <a href="https://www.businesstoday.com.tw" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/business_today.png" title="Business Today logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
+    </a>
+  </div>
+
+  <div class="col-sm-2 mt-3 mt-md-0">
+    <a href="https://www.science.org" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/sci_media.jpg" title="Science Media logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
+    </a>
+  </div>
+
+</div>
