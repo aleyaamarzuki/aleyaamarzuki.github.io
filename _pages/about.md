@@ -45,31 +45,31 @@ My work has been featured in:
 <div class="row justify-content-sm-center">
 
   <div class="col-sm-2 mt-3 mt-md-0">
-    <a href="https://theconversation.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://theconversation.com/how-uncertainty-can-impair-our-ability-to-make-rational-decisions-new-research-172525" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/conversation.png" title="The Conversation logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
     </a>
   </div>
 
   <div class="col-sm-2 mt-3 mt-md-0">
-    <a href="https://www.weforum.org" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.weforum.org/stories/2021/12/covid-19-decision-making-science-cognitive/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/WEF.jpg" title="World Economic Forum logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
     </a>
   </div>
 
   <div class="col-sm-2 mt-3 mt-md-0">
-    <a href="https://www.fastcompany.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.fastcompany.com/90717376/how-to-make-tough-decisions-when-things-feel-especially-uncertain" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/Fast-Company-Logo-1995.png" title="Fast Company logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
     </a>
   </div>
 
   <div class="col-sm-2 mt-3 mt-md-0">
-    <a href="https://www.businesstoday.com.tw" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.businesstoday.com.my/2025/01/17/malaysian-study-links-slow-decision-making-to-advanced-brain-ageing/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/business_today.png" title="Business Today logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
     </a>
   </div>
 
   <div class="col-sm-2 mt-3 mt-md-0">
-    <a href="https://www.science.org" target="_blank" rel="noopener noreferrer">
+    <a href="https://sciencemediacentremalaysia.com/research-insider/2020/05/research-insider-researching-the-impact-of-ocd-on-learning-and-decision-making/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/sci_media.jpg" title="Science Media logo" class="img-fluid rounded z-depth-1" style="max-width: 120px;" %}
     </a>
   </div>
