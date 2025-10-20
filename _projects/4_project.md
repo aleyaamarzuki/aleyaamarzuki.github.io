@@ -7,14 +7,12 @@ importance: 4
 category: work
 ---
 
-#{% include figure.liquid loading="eager" path="assets/img/lr.png" title="example image" class="img-fluid rounded z-depth-1" %}
-
 {% include figure.liquid 
     loading="eager" 
     path="assets/img/lr.png" 
     title="example image" 
     class="img-fluid rounded z-depth-1" 
-    style="max-width: 200px; margin: 0 auto;" 
+    style="max-width: 100px; margin: 0 auto;" 
 %}
 
 
