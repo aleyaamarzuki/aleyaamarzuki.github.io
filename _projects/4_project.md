@@ -9,7 +9,7 @@ category: work
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
     <a href="https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.13628" target="_blank" rel="noopener noreferrer">
-      {% include figure.liquid path="assets/img/lr.png.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid path="assets/img/lr.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
 </div>
