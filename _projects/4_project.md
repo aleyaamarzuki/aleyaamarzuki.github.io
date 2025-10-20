@@ -7,10 +7,13 @@ importance: 4
 category: work
 ---
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-      {% include figure.liquid path="assets/img/lr.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <a href="https://www.nature.com/articles/s41514-024-00171-3" target="_blank" rel="noopener noreferrer">
+      {% include figure.liquid path="assets/img/lr.png.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
   </div>
 </div>
+
 
 Obsessive-compulsive disorder (OCD) is a highly disabling condition with an average age of onset in adolescence. Despite this, OCD and its effects on cognitive functioning is largely understudied in youths. Thus, my PhD research aimed to understand how learning and decision-making may be atypical in young people diagnosed with OCD. 
 
