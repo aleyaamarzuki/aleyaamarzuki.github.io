@@ -40,7 +40,7 @@ As an early-career researcher, I am constantly seeking out ways to make meaningf
 
 I am a strong advocate for science being open, fair, and decolonial.
 
-My work has been featured in:
+<b>My work has been featured in:</b>
 
 <div class="row justify-content-sm-center">
 
