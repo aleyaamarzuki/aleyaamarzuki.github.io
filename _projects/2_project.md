@@ -7,9 +7,9 @@ importance: 2
 category: work
 ---
 <div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm-5 mt-3 mt-md-0">
     <a href="https://www.nature.com/articles/s41514-024-00171-3" target="_blank" rel="noopener noreferrer">
-      {% include figure.liquid path="assets/img/Ageing_cognition_project.png.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid path="assets/img/Ageing_cognition_project.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
 </div>
