@@ -36,7 +36,7 @@ Selamat Datang! I am a cognitive scientist from Malaysia with nearly a decade of
 
 My research skills span ecological momentary testing (mobile sensing), neuroimaging methods (fMRI and EEG), cognitive assessments, computational modelling, and structured interviews.
 
-As an early-career researcher, I am constantly seeking out ways to make meaningful societal contributions through science and to give back to communities who participate in research studies. I am currently looking to collaborate with like-minded groups working in social justice, policy, and charity sectors.
+As an early-career researcher, I am constantly seeking out ways to make meaningful societal contributions through science. I am currently looking to collaborate with like-minded groups working in social justice, policy, and charity sectors.
 
 I am a strong advocate for science being open, fair, and decolonial.
 
