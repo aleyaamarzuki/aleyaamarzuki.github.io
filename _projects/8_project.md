@@ -7,7 +7,7 @@ importance: 4
 category: community
 ---
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     <a href="https://cambridgesciencefestival.org/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/cambrain.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </a>
