@@ -16,4 +16,4 @@ category: community
 
 As part of the Cambridge Science Festival, I taught young visitors and science enthusiasts about the human brain. 
 
-We led fun hands-on activities including creating handmade neurons using pipecleaners and yarn, and creating "brain hats" with different lobes of the brain labelled.
+We led fun hands-on activities including creating handmade neurons using pipecleaners and yarn (probably more fun for me because I went home with half a dozen little neurons), and creating "brain hats" with different lobes of the brain labelled.
