@@ -7,7 +7,7 @@ importance: 1
 category: community
 ---
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-sm-6 mt-3 mt-md-0">
     <a href="https://www.scientists4palestine.org/bisan-lecture-series/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/s4p.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </a>
