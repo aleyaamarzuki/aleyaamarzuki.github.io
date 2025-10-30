@@ -7,7 +7,7 @@ importance: 2
 category: community
 ---
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     <a href="https://soapboxsciencetuebingen.github.io/" target="_blank" rel="noopener noreferrer">
       {% include figure.liquid path="assets/img/soapbox_title.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </a>
