@@ -61,8 +61,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-scientists4palestine",
-          title: 'Scientists4Palestine',
+            },},{id: "projects-scientists-for-palestine",
+          title: 'Scientists for Palestine',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
@@ -76,6 +76,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-cambridge-science-festival",
+          title: 'Cambridge Science Festival',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
