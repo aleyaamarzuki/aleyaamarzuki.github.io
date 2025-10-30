@@ -76,11 +76,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-cambridge-science-festival",
-          title: 'Cambridge Science Festival',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
