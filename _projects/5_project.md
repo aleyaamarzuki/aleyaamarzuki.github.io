@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientists4Palestine
+title: Scientists for Palestine
 description: 
 img: assets/img/s4p.png
 importance: 1
