@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Scientists4Palestine
+title: Soapbox Science
 description: 
 img: assets/img/soapbox.png
 importance: 2
